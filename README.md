@@ -1,6 +1,6 @@
 # .NET
 
-## Libraries
+## Library
 + [RestSharp](http://restsharp.org) Simple REST and HTTP API Client for .NET
 + [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Flurl](http://tmenier.github.io/Flurl/)  -Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library
@@ -8,17 +8,20 @@
 + [Stuntman](https://github.com/ritterim/stuntman) Library for impersonating users during development leveraging ASP.NET Identity
 + [Bogus](https://github.com/bchavez/Bogus) A simple and sane fake data generator for C#. Based on and ported from the famed faker.js
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
-+ [Stormpath](https://stormpath.com) User Identity API For Developers
-+ [Warden](https://github.com/warden-stack/Warden) Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 + [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) .NET's leading C# Redis Client
 + [TypeLITE](http://type.litesolutions.net) Generate TypeScript interfaces from .NET classes
 + [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity
 + [Stateless](https://github.com/dotnet-state-machine/stateless) A simple library for creating state machines in C# code
 + [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
-+ [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events
 + [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
 + [Twilio](https://github.com/twilio/twilio-csharp) Helper Library for .NET 3.5+ and .NET Standard 1.4
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
+
+### Service
++ [Stormpath](https://stormpath.com) User Identity API For Developers
+
+### Logging
++ [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events
 
 
 ### Playground
@@ -27,6 +30,7 @@
 ### Monitor
 + [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) Swagger tools for documenting API's built on ASP.NET Core
 + [Glimpse](http://getglimpse.com/) Providing real time diagnostics & insights to the fingertips of hundreds of thousands of developers daily
++ [Warden](https://github.com/warden-stack/Warden) Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Graphics
 + [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) A cross-platform library for the processing of image files; written in C#
