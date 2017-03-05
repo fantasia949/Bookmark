@@ -36,14 +36,14 @@
 + [Netling](https://github.com/hallatore/Netling) a load tester client for easy web testing
 + [WestwindWebSurge](https://github.com/rickstrahl/WestwindWebSurge) Quick and easy URL and Load Testing for your Web applications on Windows
 
-** Products
+### Product
 + [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) A super simple, cross platform, modularized ecommerce system built on .NET Core
 
 ### Roslyn
 + [Scripty](https://github.com/daveaglick/Scripty) Tools to let you use Roslyn-powered C# scripts for code generation
 + [SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems
 
-** References
+### References
 + [.NET core source code](http://aspnetsource.azurewebsites.net) 
 + [TypeScript reference](https://basarat.gitbooks.io/typescript/content) 
 + [Integrating ASP.NET Core Configuration in MVC 4](http://scottdorman.github.io/2016/03/19/integrating-asp.net-core-configuration-in-mvc-4)  
