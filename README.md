@@ -21,25 +21,25 @@
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
 
 
-*** Playground
+### Playground
 + [Dotnetfiddle](https://dotnetfiddle.net) .NET playground
 
-*** Monitor
+### Monitor
 + [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) Swagger tools for documenting API's built on ASP.NET Core
 + [Glimpse](http://getglimpse.com/) Providing real time diagnostics & insights to the fingertips of hundreds of thousands of developers daily
 
-*** Graphics
+### Graphics
 + [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) A cross-platform library for the processing of image files; written in C#
 + [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)  A fluent wrapper around System.Drawing for the processing of image files
 
-*** Stress test
+### Stress test
 + [Netling](https://github.com/hallatore/Netling) a load tester client for easy web testing
 + [WestwindWebSurge](https://github.com/rickstrahl/WestwindWebSurge) Quick and easy URL and Load Testing for your Web applications on Windows
 
 ** Products
 + [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) A super simple, cross platform, modularized ecommerce system built on .NET Core
 
-*** Roslyn
+### Roslyn
 + [Scripty](https://github.com/daveaglick/Scripty) Tools to let you use Roslyn-powered C# scripts for code generation
 + [SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems
 
