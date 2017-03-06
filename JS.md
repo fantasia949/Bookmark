@@ -1,10 +1,11 @@
 # JS
 
 ## Webpack plugin
-+ [Preload-webpack-plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
++ [Preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
 
 ## Polyfill
-+ [Document-register-element](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
++ [Document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
++ [Async cookies api](https://github.com/WICG/async-cookies-api) Sketching an asynchronous JavaScript cookies API for documents and workers
 
 ## Utility
 + [ImmutableJs](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
