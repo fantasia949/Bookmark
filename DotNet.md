@@ -1,24 +1,29 @@
 # .NET
 
-## Library
+## HTTP client
++ [DalSoft.RestClient](https://github.com/DalSoft/DalSoft.RestClient) The dynamic REST Client - the fastest way to create a SDK for your REST API
 + [RestSharp](http://restsharp.org) Simple REST and HTTP API Client for .NET
-+ [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Flurl](http://tmenier.github.io/Flurl/)  -Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library
-+ [WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin)  a .NET library that contains a set of markup minifiers
-+ [Stuntman](https://github.com/ritterim/stuntman) Library for impersonating users during development leveraging ASP.NET Identity
-+ [Bogus](https://github.com/bchavez/Bogus) A simple and sane fake data generator for C#. Based on and ported from the famed faker.js
-+ [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
-+ [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) .NET's leading C# Redis Client
-+ [TypeLITE](http://type.litesolutions.net) Generate TypeScript interfaces from .NET classes
++ [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
+
+## Utility
++ [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
++ [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
 + [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity
 + [Stateless](https://github.com/dotnet-state-machine/stateless) A simple library for creating state machines in C# code
-+ [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
-+ [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
-+ [Twilio](https://github.com/twilio/twilio-csharp) Helper Library for .NET 3.5+ and .NET Standard 1.4
+
+## Helper
++ [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
++ [WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin)  a .NET library that contains a set of markup minifiers
++ [Stuntman](https://github.com/ritterim/stuntman) Library for impersonating users during development leveraging ASP.NET Identity
++ [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) .NET's leading C# Redis Client
++ [TypeLITE](http://type.litesolutions.net) Generate TypeScript interfaces from .NET classes
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
 
 ### Service
 + [Stormpath](https://stormpath.com) User Identity API For Developers
++ [Bogus](https://github.com/bchavez/Bogus) A simple and sane fake data generator for C#. Based on and ported from the famed faker.js
++ [Twilio](https://github.com/twilio/twilio-csharp) Helper Library for .NET 3.5+ and .NET Standard 1.4
 
 ### Logging
 + [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events
