@@ -10,4 +10,5 @@
 ## Utility
 + [ImmutableJs](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [Diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
-+ [clipboard.js](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
++ [ClipboardJs](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
++ [LeafletJs](http://leafletjs.com) mobile-friendly interactive maps
