@@ -14,3 +14,4 @@
 + [Leaflet](http://leafletjs.com) mobile-friendly interactive maps
 + [Tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
 + [Echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
++ [Izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
