@@ -8,7 +8,9 @@
 + [Async cookies api](https://github.com/WICG/async-cookies-api) Sketching an asynchronous JavaScript cookies API for documents and workers
 
 ## Utility
-+ [ImmutableJs](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
++ [Immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [Diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
-+ [ClipboardJs](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
-+ [LeafletJs](http://leafletjs.com) mobile-friendly interactive maps
++ [Clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
++ [Leaflet](http://leafletjs.com) mobile-friendly interactive maps
++ [Tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
++ [Echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
