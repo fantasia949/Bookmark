@@ -15,3 +15,13 @@
 + [Tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
 + [Echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
 + [Izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
+
+## AngularJs
++ [NgJsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
++ [MdColorPicker](https://github.com/brianpkelley/md-color-picker) Angular-Material based color picker
++ [Satellizer](https://github.com/sahat/satellizer) Token-based AngularJS Authentication
++ [Ng-bs-daterangepicker](https://github.com/luisfarzati/ng-bs-daterangepicker) AngularJS directive for bootstrap-daterangepicker
++ [Ng filters](https://github.com/a8m/angular-filter) Bunch of useful filters for AngularJS
++ [Ng-gantt](https://github.com/angular-gantt/angular-gantt) Gantt chart component for AngularJS
++ [Ng-sortable](https://github.com/a5hik/ng-sortable) AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices
++ [Ng-moment](https://github.com/urish/angular-moment) Moment.JS directives for Angular.JS
