@@ -15,6 +15,8 @@
 + [Tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
 + [Echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
 + [Izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
++ [Rxcss](https://github.com/davidkpiano/rxcss) Manipulate CSS Custom Properties (aka CSS Variables) with RxJS Observables
++ [Sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
 
 ## AngularJs
 + [Ng-jsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
