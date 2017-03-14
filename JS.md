@@ -8,6 +8,8 @@
 + [Async cookies api](https://github.com/WICG/async-cookies-api) Sketching an asynchronous JavaScript cookies API for documents and workers
 + [WebAnimationJs](https://github.com/web-animations/web-animations-js)
 + [Polyfill-service](https://github.com/Financial-Times/polyfill-service) Automatic polyfill service
++ [Dom4](https://github.com/WebReflection/dom4) Modern DOM functionalities for every browser
++ [ES module loader](https://github.com/ModuleLoader/es-module-loader) Polyfill for the ES Module Loader
 
 ## Animation
 + [Ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
@@ -18,15 +20,19 @@
 + [Clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
 + [Leaflet](http://leafletjs.com) mobile-friendly interactive maps
 + [Tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
++ [Ocrad](https://github.com/antimatter15/ocrad.js) OCR in Javascript via Emscripten
 + [Echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
 + [Izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
 + [Rxcss](https://github.com/davidkpiano/rxcss) Manipulate CSS Custom Properties (aka CSS Variables) with RxJS Observables
 + [Sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
-+ [Device-js] (https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
-+ [Csv-js](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
-+ [Inversify-js](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
++ [Device] (https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
++ [Csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
++ [Inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 + [Async-task](https://github.com/gorillatron/async-task) Execute tasks asynchronous tasks on web Worker without seperate files
-+ [Is-js](https://github.com/arasatasaygin/is.js) Micro check library
++ [Is *](https://github.com/arasatasaygin/is.js) Micro check library
++ [InView](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport (based on IntersectionObserve + fallback)
++ [Xlsx](https://github.com/SheetJS/js-xlsx) Multi-format spreadsheet parser and writer
++ [Is **](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
 
 ## AngularJs
 + [Ng-jsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
