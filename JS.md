@@ -6,7 +6,7 @@
 ## Polyfill
 + [Document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
 + [Async cookies api](https://github.com/WICG/async-cookies-api) Sketching an asynchronous JavaScript cookies API for documents and workers
-+ [WebAnimationJs](https://github.com/web-animations/web-animations-js)
++ [WebAnimationJs](https://github.com/web-animations/web-animations-js) Js implementation of the Web Animations API
 + [Polyfill-service](https://github.com/Financial-Times/polyfill-service) Automatic polyfill service
 + [Dom4](https://github.com/WebReflection/dom4) Modern DOM functionalities for every browser
 + [ES module loader](https://github.com/ModuleLoader/es-module-loader) Polyfill for the ES Module Loader
@@ -29,10 +29,14 @@
 + [Csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
 + [Inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 + [Async-task](https://github.com/gorillatron/async-task) Execute tasks asynchronous tasks on web Worker without seperate files
-+ [Is *](https://github.com/arasatasaygin/is.js) Micro check library
++ [Is (1)](https://github.com/arasatasaygin/is.js) Micro check library
 + [InView](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport (based on IntersectionObserve + fallback)
 + [Xlsx](https://github.com/SheetJS/js-xlsx) Multi-format spreadsheet parser and writer
-+ [Is **](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
++ [Is (2)](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
++ [PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
++ [Jszip](https://github.com/Stuk/jszip) Create, read and edit .zip files with Javascript
+
++ [Smoothscroll](https://github.com/iamdustan/smoothscroll) Scroll Behavior polyfill
 
 ## AngularJs
 + [Ng-jsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
