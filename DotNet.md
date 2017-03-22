@@ -10,6 +10,7 @@
 + [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
 + [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity
++ [Msgpack](http://msgpack.org/) An efficient binary serialization format. It lets you exchange data among multiple languages like JSON
 + [Stateless](https://github.com/dotnet-state-machine/stateless) A simple library for creating state machines in C# code
 
 ## Helper
