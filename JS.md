@@ -48,3 +48,6 @@
 + [Ng-sortable](https://github.com/a5hik/ng-sortable) AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices
 + [Ng-moment](https://github.com/urish/angular-moment) Moment.JS directives for Angular.JS
 + [Ng-meditor](https://github.com/icattlecoder/ngMeditor) Medium style editor for AngularJS
++ [Easy mask](https://github.com/awerlang/angular-easy-masks) Angular component for input fields based on a configurable mask
++ [Hotkeys](https://github.com/chieffancypants/angular-hotkeys) Configuration-centric keyboard shortcuts for your Angular apps
++ [Swipe](https://github.com/leanbalma/ng-swipe-item) Swipeable item that could be fully customizable. User can define action for both swipe-left and swipe-right
