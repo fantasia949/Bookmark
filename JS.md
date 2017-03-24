@@ -14,6 +14,10 @@
 ## Animation
 + [Ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
 
+## Service worker
++ [Sw-precache](https://github.com/GoogleChrome/sw-precache) A node module to generate service worker code that will precache specific resources so they work offline
++ [Sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests
+
 ## Utility
 + [Immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [Diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
