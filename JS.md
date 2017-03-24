@@ -17,6 +17,7 @@
 ## Service worker
 + [Sw-precache](https://github.com/GoogleChrome/sw-precache) A node module to generate service worker code that will precache specific resources so they work offline
 + [Sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests
++ [Sw-helpers](https://github.com/GoogleChrome/sw-helpers)  Service Worker helper libraries
 
 ## Utility
 + [Immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
