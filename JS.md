@@ -2,6 +2,7 @@
 
 ## Webpack plugin
 + [Preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
++ [CSS-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack (css nano wrapper)
 
 ## Polyfill
 + [Document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
@@ -41,7 +42,7 @@
 + [PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 + [Jszip](https://github.com/Stuk/jszip) Create, read and edit .zip files with Javascript
 
-+ [Smoothscroll](https://github.com/iamdustan/smoothscroll) Scroll Behavior polyfill
++ [Axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
 
 ## AngularJs
 + [Ng-jsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
