@@ -41,8 +41,11 @@
 + [Is (2)](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
 + [PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 + [Jszip](https://github.com/Stuk/jszip) Create, read and edit .zip files with Javascript
-
++ [Numeral](https://github.com/adamwdraper/Numeral-js) A javascript library for formatting and manipulating numbers
 + [Axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
++ [Hello](https://github.com/MrSwitch/hello.js) A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
+
++ [Jasmine utils](https://github.com/mjeanroy/jasmine-utils) Set of custom matchers for Jasmine Test Framework
 
 ## AngularJs
 + [Ng-jsTree](https://github.com/ezraroi/ngJsTree?utm_source=twitterfeed) Angular Directive for the famous JS Tree
