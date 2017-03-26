@@ -2,7 +2,7 @@
 
 ## Webpack plugin
 + [Preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
-+ [CSS-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack (css nano wrapper)
++ [CSS-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper)
 
 ## Polyfill
 + [Document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
