@@ -61,3 +61,7 @@
 + [Hotkeys](https://github.com/chieffancypants/angular-hotkeys) Configuration-centric keyboard shortcuts for your Angular apps
 + [Swipe](https://github.com/leanbalma/ng-swipe-item) Swipeable item that could be fully customizable. User can define action for both swipe-left and swipe-right
 + [Dragula](http://bevacqua.github.io/angularjs-dragula) Drag and drop so simple it hurts
+
+
+## Angular 
++ [Covalent](https://github.com/teradata/covalent) Teradata UI Platform built on Angular-Material 
