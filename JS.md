@@ -1,3 +1,5 @@
+[Back](./)
+
 # JS
 
 ## Webpack plugin
@@ -68,5 +70,5 @@
 + [Covalent](https://github.com/teradata/covalent) Teradata UI Platform built on Angular-Material 
 
 
-## [Back](../)
+[Back](./)
 
