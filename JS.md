@@ -3,6 +3,7 @@
 ## Webpack plugin
 + [Preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
 + [CSS-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper)
++ [Css-razor][https://github.com/tscanlin/css-razor] fast way to remove unused selectors from css (similar to uncss, but uses cheeriojs to parse static html and css files to removed unused selectors)
 
 ## Polyfill
 + [Document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
@@ -65,3 +66,7 @@
 
 ## Angular 
 + [Covalent](https://github.com/teradata/covalent) Teradata UI Platform built on Angular-Material 
+
+
+## [Back](../)
+
