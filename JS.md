@@ -13,7 +13,8 @@
 + [postcss-extend-rule](https://github.com/jonathantneal/postcss-extend-rule) Use the @extend at-rule and functional selectors in CSS
 + [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) A Webpack plugin to optimize / minimize CSS assets
 + [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) UglifyJS plugin
-+[webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications
++ [webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications
+
 
 ## Polyfill
 + [document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
