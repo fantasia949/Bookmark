@@ -65,7 +65,7 @@
 + [mdColorPicker](https://github.com/brianpkelley/md-color-picker) Angular-Material based color picker
 + [satellizer](https://github.com/sahat/satellizer) Token-based AngularJS Authentication
 + [ng-bs-daterangepicker](https://github.com/luisfarzati/ng-bs-daterangepicker) AngularJS directive for bootstrap-daterangepicker
-+ [ng filters](https://github.com/a8m/angular-filter) Bunch of useful filters for AngularJS
++ [ng-filters](https://github.com/a8m/angular-filter) Bunch of useful filters for AngularJS
 + [ng-gantt](https://github.com/angular-gantt/angular-gantt) Gantt chart component for AngularJS
 + [ng-sortable](https://github.com/a5hik/ng-sortable) AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices
 + [ng-moment](https://github.com/urish/angular-moment) Moment.JS directives for Angular.JS
