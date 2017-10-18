@@ -12,6 +12,7 @@
 + [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity
 + [Msgpack](https://github.com/msgpack/msgpack-cli) An efficient binary serialization format. It lets you exchange data among multiple languages like JSON
 + [Stateless](https://github.com/dotnet-state-machine/stateless) A simple library for creating state machines in C# code
++ [DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) Support holidays and working days calculations on several culture locales to DateTime
 
 ## Helper
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
@@ -20,6 +21,7 @@
 + [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) .NET's leading C# Redis Client
 + [TypeLITE](http://type.litesolutions.net) Generate TypeScript interfaces from .NET classes
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
++ [Topshelf](https://github.com/Topshelf/Topshelf) An easy service hosting framework for building Windows services using .NET
 
 ### Service
 + [Stormpath](https://stormpath.com) User Identity API For Developers
@@ -33,18 +35,20 @@
 ### Playground
 + [Dotnetfiddle](https://dotnetfiddle.net) .NET playground
 
-### Monitor
+### Monitor/Diagnostics
 + [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) Swagger tools for documenting API's built on ASP.NET Core
 + [Glimpse](http://getglimpse.com/) Providing real time diagnostics & insights to the fingertips of hundreds of thousands of developers daily
 + [Warden](https://github.com/warden-stack/Warden) Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
++ [CodeTrack](http://www.getcodetrack.com/) A FREE .NET PERFORMANCE PROFILER AND EXECUTION ANALYZER
 
 ### Graphics
 + [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) A cross-platform library for the processing of image files; written in C#
 + [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)  A fluent wrapper around System.Drawing for the processing of image files
 
-### Stress test
+### Performance test
 + [Netling](https://github.com/hallatore/Netling) a load tester client for easy web testing
 + [WestwindWebSurge](https://github.com/rickstrahl/WestwindWebSurge) Quick and easy URL and Load Testing for your Web applications on Windows
++ [BenchmarkDotnet](https://github.com/dotnet/BenchmarkDotNet) Powerful .NET library for benchmarking
 
 ### Product
 + [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) A super simple, cross platform, modularized ecommerce system built on .NET Core

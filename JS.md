@@ -4,10 +4,17 @@
 
 ## Webpack plugin
 + [preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
-+ [cSS-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper)
++ [css-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper)
 + [css-razor](https://github.com/tscanlin/css-razor) fast way to remove unused selectors from css (similar to uncss, but uses cheeriojs to parse static html and css files to removed unused selectors)
 + [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) Simplifies creation of HTML files to serve your webpack bundles
 + [preload-webpack-plugin](https://github.com/GoogleChrome/preload-webpack-plugin) A Webpack plugin for wiring up `<link rel='preload'>` (and prefetch) - supports async chunks
++ [image-trace-loader](https://github.com/EmilTholin/image-trace-loader) Loads images and exports traced outlines as image/svg+xml URL-encoded data
++ [purifycss-webpack](https://github.com/webpack-contrib/purifycss-webpack) Remove unused CSS
++ [postcss-extend-rule](https://github.com/jonathantneal/postcss-extend-rule) Use the @extend at-rule and functional selectors in CSS
++ [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) A Webpack plugin to optimize / minimize CSS assets
++ [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) UglifyJS plugin
++ [webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications
+
 
 ## Polyfill
 + [document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
@@ -18,14 +25,16 @@
 + [es module loader](https://github.com/ModuleLoader/es-module-loader) Polyfill for the ES Module Loader
 
 ## Animation
++ [anime] (https://github.com/juliangarnier/anime/) JavaScript Animation Engine
 + [ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
 
 ## Service worker
-+ [sw-precache](https://github.com/GoogleChrome/sw-precache) A node module to generate service worker code that will precache specific resources so they work offline
 + [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests
-+ [sw-helpers](https://github.com/GoogleChrome/sw-helpers)  Service Worker helper libraries
++ [workbox] (https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching
 
 ## Utility
++ [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
++ [date-fns] (https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
 + [immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
 + [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
@@ -57,7 +66,7 @@
 + [mdColorPicker](https://github.com/brianpkelley/md-color-picker) Angular-Material based color picker
 + [satellizer](https://github.com/sahat/satellizer) Token-based AngularJS Authentication
 + [ng-bs-daterangepicker](https://github.com/luisfarzati/ng-bs-daterangepicker) AngularJS directive for bootstrap-daterangepicker
-+ [ng filters](https://github.com/a8m/angular-filter) Bunch of useful filters for AngularJS
++ [ng-filters](https://github.com/a8m/angular-filter) Bunch of useful filters for AngularJS
 + [ng-gantt](https://github.com/angular-gantt/angular-gantt) Gantt chart component for AngularJS
 + [ng-sortable](https://github.com/a5hik/ng-sortable) AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices
 + [ng-moment](https://github.com/urish/angular-moment) Moment.JS directives for Angular.JS
