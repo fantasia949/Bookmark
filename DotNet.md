@@ -6,6 +6,9 @@
 + [Flurl](http://tmenier.github.io/Flurl/)  -Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library
 + [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
 
+# Microservice
++[Ocelot](https://github.com/TomPallister/Ocelot) .NET core API Gateway
+
 ## Utility
 + [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
@@ -13,6 +16,9 @@
 + [Msgpack](https://github.com/msgpack/msgpack-cli) An efficient binary serialization format. It lets you exchange data among multiple languages like JSON
 + [Stateless](https://github.com/dotnet-state-machine/stateless) A simple library for creating state machines in C# code
 + [DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) Support holidays and working days calculations on several culture locales to DateTime
++ [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) Exception handling as a convention in ASP.NET Core request pipeline
++ [Polly](https://github.com/App-vNext/Polly) Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies in a fluent and thread-safe manner. http://www.thepollyproject.org
++ [AppMetrics](https://github.com/AppMetrics/AppMetrics) App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application. https://app-metrics.io
 
 ## Helper
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
