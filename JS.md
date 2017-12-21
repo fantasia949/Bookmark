@@ -14,7 +14,8 @@
 + [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) A Webpack plugin to optimize / minimize CSS assets
 + [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) UglifyJS plugin
 + [webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications
-
++ [lqip-loader](https://github.com/zouhir/lqip-loader) Low Quality Image Placeholders (LQIP) for Webpack
++ [webpack-pwa-manifest](https://github.com/arthurbergmz/webpack-pwa-manifest) Progressive Web App Manifest Generator for Webpack, with auto icon resizing and fingerprinting support
 
 ## Polyfill
 + [document.registerElement](https://github.com/WebReflection/document-register-element) A stand-alone working lightweight version of the W3C Custom Elements specification
@@ -27,6 +28,7 @@
 ## Animation
 + [anime] (https://github.com/juliangarnier/anime/) JavaScript Animation Engine
 + [ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions
++ [animateplus](https://github.com/bendc/animateplus) A+ animation module for the modern web
 
 ## Service worker
 + [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests
@@ -35,6 +37,7 @@
 ## Utility
 + [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
 + [date-fns] (https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
++ [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS https://moment.github.io/luxon
 + [immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
 + [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
@@ -47,10 +50,12 @@
 + [sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
 + [device] (https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
 + [csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
++ [csvhelper](https://github.com/joshclose/csvhelper) Library to help reading and writing CSV files http://joshclose.github.io/CsvHelper/
 + [inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 + [async-task](https://github.com/gorillatron/async-task) Execute tasks asynchronous tasks on web Worker without seperate files
 + [is (1)](https://github.com/arasatasaygin/is.js) Micro check library
 + [inView](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport (based on IntersectionObserve + fallback)
++ [sentineljs](https://github.com/muicss/sentineljs)Detect new DOM nodes using CSS selectors
 + [xlsx](https://github.com/SheetJS/js-xlsx) Multi-format spreadsheet parser and writer
 + [is (2)](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
 + [papaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
@@ -58,6 +63,9 @@
 + [numeral](https://github.com/adamwdraper/Numeral-js) A javascript library for formatting and manipulating numbers
 + [axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
 + [hello](https://github.com/MrSwitch/hello.js) A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
++ [lozad](https://github.com/ApoorvSaxena/lozad.js) 🔥 Highly performant, light ~0.7kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more https://apoorv.pro/lozad.js/demo/
++ [normalizr](https://github.com/paularmstrong/normalizr) Normalizes nested JSON according to a schema
++ [image-compressor](https://github.com/xkeshi/image-compressor) A simple JavaScript image compressor
 
 + [jasmine utils](https://github.com/mjeanroy/jasmine-utils) Set of custom matchers for Jasmine Test Framework
 
@@ -76,10 +84,16 @@
 + [swipe](https://github.com/leanbalma/ng-swipe-item) Swipeable item that could be fully customizable. User can define action for both swipe-left and swipe-right
 + [dragula](http://bevacqua.github.io/angularjs-dragula) Drag and drop so simple it hurts
 
-
-## Angular 
-+ [covalent](https://github.com/teradata/covalent) Teradata UI Platform built on Angular-Material 
-
-
+## React/Preact
++ [react-monocle](https://github.com/team-gryff/react-monocle) A developer tool to visualize a React application's component hierarchy.
++ [unistore](https://github.com/developit/unistore) 🌶 650b state container with component actions for Preact & React https://npm.im/unistore
++ [react-select](https://github.com/JedWatson/react-select) A Select control built with and for React JS http://jedwatson.github.io/react-select/
++ [react-fns](https://github.com/jaredpalmer/react-fns) Browser API's turned into declarative React components and HoC's https://react-fns.netlify.com
++ [preact-custom-scrollbars](https://github.com/lucafalasco/preact-custom-scrollbars) ↕️ Preact scrollbars component
++ [recompose](https://github.com/acdlite/recompose) A React utility belt for function components and higher-order components
++ [preact-waypoint](https://github.com/dzhurley/preact-waypoint) minimal port of react-waypoint to preact
++ [preact-feather](https://github.com/ForsakenHarmony/preact-feather) Preact component for Feather icons
++ [react-icons](http://gorangajic.github.io/react-icons) Include popular icons in your React projects easly with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
++ [preact-richtextarea](https://github.com/developit/preact-richtextarea) A text field that supports HTML editing. 📝
 [Back](./)
 
