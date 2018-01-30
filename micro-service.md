@@ -8,3 +8,6 @@
 + [forge](https://forge.sh) Define and deploy multi-container apps in Kubernetes, from source
 + [heron](https://github.com/twitter/heron) a realtime, distributed, fault-tolerant stream processing engine #processing
 + [consul](https://github.com/hashicorp/consul) a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure #discovery
+
++ [eventstore](https://github.com/eventstore/eventstore) functional database with Complex Event Processing #eventstore
++ [rancher](https://github.com/rancher/rancher) complete container management platform #orchestrator
