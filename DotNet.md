@@ -7,7 +7,7 @@
 + [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
 
 # Microservice
-+[Ocelot](https://github.com/TomPallister/Ocelot) .NET core API Gateway
++ [Ocelot](https://github.com/TomPallister/Ocelot) .NET core API Gateway
 
 ## Utility
 + [BrighterCommand](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue
