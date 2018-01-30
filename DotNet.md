@@ -10,6 +10,7 @@
 +[Ocelot](https://github.com/TomPallister/Ocelot) .NET core API Gateway
 
 ## Utility
++ [BrighterCommand](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue
 + [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
 + [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity
@@ -19,6 +20,9 @@
 + [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) Exception handling as a convention in ASP.NET Core request pipeline
 + [Polly](https://github.com/App-vNext/Polly) Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies in a fluent and thread-safe manner. http://www.thepollyproject.org
 + [AppMetrics](https://github.com/AppMetrics/AppMetrics) App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application. https://app-metrics.io
++ [.NET Event Sourcing](https://github.com/elliotritchie/NES) lightweight framework that helps you build domain models when you're doing event sourcing
++ [NEventStore](https://github.com/NEventStore/NEventStore) A persistence agnostic Event Store for .NET
++ [Accord-net](https://github.com/accord-net/framework) Machine learning, computer vision, statistics and general scientific computing for .NET
 
 ## Helper
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
