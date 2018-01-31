@@ -35,11 +35,11 @@
 
 ## Service worker
 + [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests #sw
-+ [workbox] (https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching #sw
++ [workbox](https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching #sw
 
 ## Utility
 + [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
-+ [date-fns] (https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
++ [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
 + [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS
 + [immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
@@ -51,7 +51,7 @@
 + [izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
 + [rxcss](https://github.com/davidkpiano/rxcss) Manipulate CSS Custom Properties (aka CSS Variables) with RxJS Observables
 + [sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
-+ [device] (https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
++ [device](https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
 + [csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
 + [csvhelper](https://github.com/joshclose/csvhelper) Library to help reading and writing CSV files
 + [inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
