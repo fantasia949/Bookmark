@@ -40,7 +40,7 @@
 ## Utility
 + [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
 + [date-fns] (https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
-+ [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS https://moment.github.io/luxon
++ [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS
 + [immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
 + [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
 + [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
@@ -53,7 +53,7 @@
 + [sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
 + [device] (https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
 + [csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
-+ [csvhelper](https://github.com/joshclose/csvhelper) Library to help reading and writing CSV files http://joshclose.github.io/CsvHelper/
++ [csvhelper](https://github.com/joshclose/csvhelper) Library to help reading and writing CSV files
 + [inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 + [async-task](https://github.com/gorillatron/async-task) Execute tasks asynchronous tasks on web Worker without seperate files
 + [is (1)](https://github.com/arasatasaygin/is.js) Micro check library
@@ -66,7 +66,7 @@
 + [numeral](https://github.com/adamwdraper/Numeral-js) A javascript library for formatting and manipulating numbers
 + [axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
 + [hello](https://github.com/MrSwitch/hello.js) A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
-+ [lozad](https://github.com/ApoorvSaxena/lozad.js) 🔥 Highly performant, light ~0.7kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more https://apoorv.pro/lozad.js/demo/
++ [lozad](https://github.com/ApoorvSaxena/lozad.js) 🔥 Highly performant, light ~0.7kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 + [normalizr](https://github.com/paularmstrong/normalizr) Normalizes nested JSON according to a schema
 + [image-compressor](https://github.com/xkeshi/image-compressor) A simple JavaScript image compressor
 
@@ -83,11 +83,12 @@
 + [oidc-client-js](https://github.com/IdentityModel/oidc-client-js) OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 + [headtrackr](https://github.com/auduno/headtrackr) Javascript library for headtracking via webcam and WebRTC/getUserMedia
 
-## React/Preact
+## Preact
 + [react-monocle](https://github.com/team-gryff/react-monocle) A developer tool to visualize a React application's component hierarchy  #react
-+ [unistore](https://github.com/developit/unistore) 🌶 650b state container with component actions for Preact & React https://npm.im/unistore #preact #react
-+ [react-select](https://github.com/JedWatson/react-select) A Select control built with and for React JS http://jedwatson.github.io/react-select  #react
-+ [react-fns](https://github.com/jaredpalmer/react-fns) Browser API's turned into declarative React components and HoC's https://react-fns.netlify.com  #react
++ [parket](https://github.com/ForsakenHarmony/parket) A library to manage application state, heavily inspired by mobx-state-tree
++ [unistore](https://github.com/developit/unistore) 650b state container with component actions for Preact & React #preact #react
++ [react-select](https://github.com/JedWatson/react-select) A Select control built with and for React JS #react
++ [react-fns](https://github.com/jaredpalmer/react-fns) Browser API's turned into declarative React components and HoC's  #react
 + [preact-custom-scrollbars](https://github.com/lucafalasco/preact-custom-scrollbars) ↕️ Preact scrollbars component #preact
 + [recompose](https://github.com/acdlite/recompose) A React utility belt for function components and higher-order components #preact
 + [preact-waypoint](https://github.com/dzhurley/preact-waypoint) minimal port of react-waypoint to preact #preact
