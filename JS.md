@@ -29,7 +29,7 @@
 + [es module loader](https://github.com/ModuleLoader/es-module-loader) Polyfill for the ES Module Loader #polyfill
 
 ## Animation
-+ [anime] (https://github.com/juliangarnier/anime/) JavaScript Animation Engine #anim
++ [anime](https://github.com/juliangarnier/anime/) JavaScript Animation Engine #anim
 + [ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions #anim
 + [animateplus](https://github.com/bendc/animateplus) A+ animation module for the modern web #anim
 
