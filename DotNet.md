@@ -9,7 +9,7 @@
 + [Flurl](http://tmenier.github.io/Flurl/)  -Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library
 + [Refit](https://github.com/paulcbetts/refit) The automatic type-safe REST library for Xamarin and .NET
 
-## .net.util
+## util
 + [BrighterCommand](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue
 + [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) A helper library for async/await
 + [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) Enums.NET is a high-performance type-safe .NET enum utility library
@@ -24,7 +24,7 @@
 + [NEventStore](https://github.com/NEventStore/NEventStore) A persistence agnostic Event Store for .NET
 + [Accord-net](https://github.com/accord-net/framework) Machine learning, computer vision, statistics and general scientific computing for .NET
 
-## .net.helper
+## helper
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
 + [WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin)  a .NET library that contains a set of markup minifiers
 + [Stuntman](https://github.com/ritterim/stuntman) Library for impersonating users during development leveraging ASP.NET Identity
@@ -33,7 +33,7 @@
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
 + [Topshelf](https://github.com/Topshelf/Topshelf) An easy service hosting framework for building Windows services using .NET
 
-### .net.service
+### service
 + [Stormpath](https://stormpath.com) User Identity API For Developers
 + [Bogus](https://github.com/bchavez/Bogus) A simple and sane fake data generator for C#. Based on and ported from the famed faker.js
 + [Twilio](https://github.com/twilio/twilio-csharp) Helper Library for .NET 3.5+ and .NET Standard 1.4
