@@ -1,5 +1,3 @@
-[Back](./)
-
 # ui-component
 
 + [algolia](https://github.com/algolia/places) Turn any <input> into an address autocomplete
