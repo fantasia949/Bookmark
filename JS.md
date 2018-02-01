@@ -36,33 +36,31 @@
 + [workbox](https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching
 
 ## util
-+ [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
-+ [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
-+ [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS
-+ [immutable](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity
-+ [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript
-+ [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard
-+ [leaflet](http://leafletjs.com) mobile-friendly interactive maps
++ [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework #📢
++ [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs) #⏱
++ [luxon](https://github.com/moment/luxon) A library for working with dates and times in JS #⏱
++ [diffhtml](https://github.com/tbranyen/diffhtml) a library that assists with creating user interfaces using JavaScript #template
++ [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard #clipboard
++ [leaflet](http://leafletjs.com) mobile-friendly interactive maps #🗺
 + [tesseract](https://github.com/naptha/tesseract.js) Pure Javascript OCR for 62 Languages (Vietnamese included)
 + [ocrad](https://github.com/antimatter15/ocrad.js) OCR in Javascript via Emscripten
 + [echo](https://github.com/toddmotto/echo) Lazy-loading images with data-* attributes
-+ [izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies
-+ [rxcss](https://github.com/davidkpiano/rxcss) Manipulate CSS Custom Properties (aka CSS Variables) with RxJS Observables
-+ [sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web
++ [izitoast](http://izitoast.marcelodolce.com) Elegant, responsive, flexible and lightweight notification plugin with no dependencies #📢
++ [rxcss](https://github.com/davidkpiano/rxcss) Manipulate CSS Custom Properties (aka CSS Variables) with RxJS Observables #rx
++ [sw-delta](https://github.com/gmetais/sw-delta) An incremental cache for the web #sw
 + [device](https://github.com/matthewhudson/device.js) makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile)
 + [csv](https://github.com/knrz/CSV.js) A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
 + [csvhelper](https://github.com/joshclose/csvhelper) Library to help reading and writing CSV files
-+ [inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
++ [inversify](https://github.com/inversify/InversifyJS) A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript #di
 + [async-task](https://github.com/gorillatron/async-task) Execute tasks asynchronous tasks on web Worker without seperate files
 + [is (1)](https://github.com/arasatasaygin/is.js) Micro check library
 + [inView](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport (based on IntersectionObserve + fallback)
-+ [sentineljs](https://github.com/muicss/sentineljs)Detect new DOM nodes using CSS selectors
++ [sentineljs](https://github.com/muicss/sentineljs) Detect new DOM nodes using CSS selectors
 + [xlsx](https://github.com/SheetJS/js-xlsx) Multi-format spreadsheet parser and writer
 + [is (2)](https://github.com/jumpkick-studios/Is) A better way to write JavaScript conditional statements and still have pretty code
 + [papaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 + [jszip](https://github.com/Stuk/jszip) Create, read and edit .zip files with Javascript
 + [numeral](https://github.com/adamwdraper/Numeral-js) A javascript library for formatting and manipulating numbers
-+ [axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
 + [hello](https://github.com/MrSwitch/hello.js) A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
 + [lozad](https://github.com/ApoorvSaxena/lozad.js) 🔥 Highly performant, light ~0.7kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 + [normalizr](https://github.com/paularmstrong/normalizr) Normalizes nested JSON according to a schema
@@ -85,14 +83,14 @@
 + [react-monocle](https://github.com/team-gryff/react-monocle) A developer tool to visualize a React application's component hierarchy
 + [parket](https://github.com/ForsakenHarmony/parket) A library to manage application state, heavily inspired by mobx-state-tree
 + [unistore](https://github.com/developit/unistore) 650b state container with component actions for Preact & React
-+ [react-select](https://github.com/JedWatson/react-select) A Select control built with and for React JS
++ [react-select](https://github.com/JedWatson/react-select) A Select control built with and for React JS #ui
 + [react-fns](https://github.com/jaredpalmer/react-fns) Browser API's turned into declarative React components and HoC's  #react
-+ [preact-custom-scrollbars](https://github.com/lucafalasco/preact-custom-scrollbars) ↕️ Preact scrollbars component
++ [preact-custom-scrollbars](https://github.com/lucafalasco/preact-custom-scrollbars) ↕️ Preact scrollbars component #ui
 + [recompose](https://github.com/acdlite/recompose) A React utility belt for function components and higher-order components
 + [preact-waypoint](https://github.com/dzhurley/preact-waypoint) minimal port of react-waypoint to preact
-+ [preact-feather](https://github.com/ForsakenHarmony/preact-feather) Preact component for Feather icons
-+ [react-icons](http://gorangajic.github.io/react-icons) Include popular icons in your React projects easly with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using
-+ [preact-richtextarea](https://github.com/developit/preact-richtextarea) A text field that supports HTML editing
++ [preact-feather](https://github.com/ForsakenHarmony/preact-feather) Preact component for Feather icons #ui
++ [react-icons](http://gorangajic.github.io/react-icons) Include popular icons in your React projects easly with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using #ui
++ [preact-richtextarea](https://github.com/developit/preact-richtextarea) A text field that supports HTML editing #ui
 + [preact-shadow-dom](https://github.com/bspaulding/preact-shadow-dom) HOC that renders component into shadow-dom
 + [preact-context-provider](https://github.com/synacor/preact-context-provider) A generic <Provider /> for preact. It exposes any props you pass it into context
 + [preact-slots](https://github.com/developit/preact-slots) Render Preact trees into other Preact trees, like portals
