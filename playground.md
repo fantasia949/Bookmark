@@ -8,3 +8,4 @@
 + [webpackbin](https://www.webpackbin.com) online editor #webpack #js
 + [trycarbide](https://alpha.trycarbide.com) a new kind of programming environment #js
 + [oauthplayground](https://developers.google.com/oauthplayground) Google oauth playground #oauth
++ [repl](https://repl.it) various languages to playground
