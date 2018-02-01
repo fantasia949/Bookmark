@@ -1,6 +1,5 @@
 # .net
 
-+ [Dotnetfiddle](https://dotnetfiddle.net) .NET playground #playground
 + [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events #logging
 
 ## http
