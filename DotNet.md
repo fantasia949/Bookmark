@@ -1,7 +1,5 @@
 # .net
 
-+ [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events #logging
-
 ## http
 + [DalSoft.RestClient](https://github.com/DalSoft/DalSoft.RestClient) The dynamic REST Client - the fastest way to create a SDK for your REST API
 + [RestSharp](http://restsharp.org) Simple REST and HTTP API Client for .NET
@@ -22,6 +20,7 @@
 + [.NET Event Sourcing](https://github.com/elliotritchie/NES) lightweight framework that helps you build domain models when you're doing event sourcing
 + [NEventStore](https://github.com/NEventStore/NEventStore) A persistence agnostic Event Store for .NET
 + [Accord-net](https://github.com/accord-net/framework) Machine learning, computer vision, statistics and general scientific computing for .NET
++ [Serilog](https://github.com/serilog/serilog) Simple .NET logging with fully-structured events #logging
 
 ## helper
 + [JsonPatch](https://github.com/myquay/JsonPatch) Adds JSON Patch support to ASP.NET Web API (.NET core's already supported) 
@@ -32,34 +31,34 @@
 + [Hangfire](http://hangfire.io)  An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required
 + [Topshelf](https://github.com/Topshelf/Topshelf) An easy service hosting framework for building Windows services using .NET
 
-### service
+## service
 + [Stormpath](https://stormpath.com) User Identity API For Developers
 + [Bogus](https://github.com/bchavez/Bogus) A simple and sane fake data generator for C#. Based on and ported from the famed faker.js
 + [Twilio](https://github.com/twilio/twilio-csharp) Helper Library for .NET 3.5+ and .NET Standard 1.4
 
-### monitor/diagnostics
+## monitor/diagnostics
 + [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) Swagger tools for documenting API's built on ASP.NET Core
 + [Glimpse](http://getglimpse.com) Providing real time diagnostics & insights to the fingertips of hundreds of thousands of developers daily
 + [Warden](https://github.com/warden-stack/Warden) Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 + [CodeTrack](http://www.getcodetrack.com) A FREE .NET PERFORMANCE PROFILER AND EXECUTION ANALYZER
 
-### graphics
+## graphics
 + [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) A cross-platform library for the processing of image files; written in C#
 + [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)  A fluent wrapper around System.Drawing for the processing of image files
 
-### performance test
+## performance test
 + [Netling](https://github.com/hallatore/Netling) a load tester client for easy web testing
 + [WestwindWebSurge](https://github.com/rickstrahl/WestwindWebSurge) Quick and easy URL and Load Testing for your Web applications on Windows
 + [BenchmarkDotnet](https://github.com/dotnet/BenchmarkDotNet) Powerful .NET library for benchmarking
 
-### product
+## product
 + [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) A super simple, cross platform, modularized ecommerce system built on .NET Core
 
-### roslyn
+## roslyn
 + [Scripty](https://github.com/daveaglick/Scripty) Tools to let you use Roslyn-powered C# scripts for code generation
 + [SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems
 
-### references
+## references
 + [.NET core source code](http://aspnetsource.azurewebsites.net) 
 + [TypeScript reference](https://basarat.gitbooks.io/typescript/content) 
 + [Integrating ASP.NET Core Configuration in MVC 4](http://scottdorman.github.io/2016/03/19/integrating-asp.net-core-configuration-in-mvc-4)  
