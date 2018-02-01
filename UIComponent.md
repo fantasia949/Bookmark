@@ -1,5 +1,7 @@
 [Back](./)
 
+# ui-component
+
 + [algolia](https://github.com/algolia/places) Turn any <input> into an address autocomplete
 + [granim](https://github.com/sarcadass/granim.js) Create fluid and interactive gradients animations
 + [odometer](https://github.com/HubSpot/odometer) Smoothly transitions numbers with ease
