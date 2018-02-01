@@ -1,6 +1,4 @@
-[Back](./)
-
-# JS
+# js
 
 ## build
 + [preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks #build #webpack
@@ -28,16 +26,16 @@
 + [dom4](https://github.com/WebReflection/dom4) Modern DOM functionalities for every browser #polyfill
 + [es module loader](https://github.com/ModuleLoader/es-module-loader) Polyfill for the ES Module Loader #polyfill
 
-## Animation
+## animation
 + [anime](https://github.com/juliangarnier/anime/) JavaScript Animation Engine #anim
 + [ramjet](https://github.com/rich-harris/ramjet) Morph DOM elements from one state to another with smooth animations and transitions #anim
 + [animateplus](https://github.com/bendc/animateplus) A+ animation module for the modern web #anim
 
-## Service worker
+## sw
 + [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests #sw
 + [workbox](https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching #sw
 
-## Utility
+## util
 + [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
 + [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs)
 + [luxon](https://github.com/moment/luxon) ⏱ A library for working with dates and times in JS
@@ -83,7 +81,7 @@
 + [oidc-client-js](https://github.com/IdentityModel/oidc-client-js) OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 + [headtrackr](https://github.com/auduno/headtrackr) Javascript library for headtracking via webcam and WebRTC/getUserMedia
 
-## Preact
+## preact
 + [react-monocle](https://github.com/team-gryff/react-monocle) A developer tool to visualize a React application's component hierarchy  #react
 + [parket](https://github.com/ForsakenHarmony/parket) A library to manage application state, heavily inspired by mobx-state-tree
 + [unistore](https://github.com/developit/unistore) 650b state container with component actions for Preact & React #preact #react
