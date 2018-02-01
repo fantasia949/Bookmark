@@ -32,8 +32,8 @@
 + [animateplus](https://github.com/bendc/animateplus) A+ animation module for the modern web #anim
 
 ## sw
-+ [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests #sw
-+ [workbox](https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching #sw
++ [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) A collection of service worker tools for offlining runtime requests
++ [workbox](https://github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching
 
 ## util
 + [push.js](https://github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework
