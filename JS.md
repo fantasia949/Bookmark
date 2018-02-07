@@ -79,7 +79,7 @@
 + [oidc-client-js](https://github.com/IdentityModel/oidc-client-js) OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 + [headtrackr](https://github.com/auduno/headtrackr) Javascript library for headtracking via webcam and WebRTC/getUserMedia
 
-## preact
+## ⚛️
 + [react-monocle](https://github.com/team-gryff/react-monocle) A developer tool to visualize a React application's component hierarchy
 + [parket](https://github.com/ForsakenHarmony/parket) A library to manage application state, heavily inspired by mobx-state-tree
 + [unistore](https://github.com/developit/unistore) 650b state container with component actions for Preact & React
