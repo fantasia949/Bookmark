@@ -1,21 +1,21 @@
 # js
 
 ## build
-+ [preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks #webpack
-+ [css-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper) #webpack
-+ [css-razor](https://github.com/tscanlin/css-razor) fast way to remove unused selectors from css (similar to uncss, but uses cheeriojs to parse static html and css files to removed unused selectors) #webpack
-+ [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) Simplifies creation of HTML files to serve your webpack bundles #webpack
-+ [preload-webpack-plugin](https://github.com/GoogleChrome/preload-webpack-plugin) A Webpack plugin for wiring up `<link rel='preload'>` (and prefetch) - supports async chunks #webpack
-+ [image-trace-loader](https://github.com/EmilTholin/image-trace-loader) Loads images and exports traced outlines as image/svg+xml URL-encoded data #webpack
-+ [purifycss-webpack](https://github.com/webpack-contrib/purifycss-webpack) Remove unused CSS #webpack
-+ [postcss-extend-rule](https://github.com/jonathantneal/postcss-extend-rule) Use the @extend at-rule and functional selectors in CSS #webpack
-+ [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) A Webpack plugin to optimize / minimize CSS assets #webpack
-+ [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) UglifyJS plugin #build #webpack
-+ [webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications  #webpack
-+ [lqip-loader](https://github.com/zouhir/lqip-loader) Low Quality Image Placeholders (LQIP) for Webpack #build #webpack
-+ [webpack-pwa-manifest](https://github.com/arthurbergmz/webpack-pwa-manifest) Progressive Web App Manifest Generator for Webpack, with auto icon resizing and fingerprinting support #webpack
-+ [jarvis](https://github.com/zouhir/jarvis) A very intelligent browser based Webpack dashboard #webpack
-+ [workerize-loader](https://github.com/developit/workerize-loader) Automatically move a module into a Web Worker #webpack #worker
++ [preload webpack plugin](https://github.com/googlechrome/preload-webpack-plugin) A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks #📦
++ [css-loader](https://github.com/webpack-contrib/css-loader) css loader module for webpack ([css nano](http://cssnano.co) wrapper) #📦
++ [css-razor](https://github.com/tscanlin/css-razor) fast way to remove unused selectors from css (similar to uncss, but uses cheeriojs to parse static html and css files to removed unused selectors) #📦
++ [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) Simplifies creation of HTML files to serve your webpack bundles #📦
++ [preload-webpack-plugin](https://github.com/GoogleChrome/preload-webpack-plugin) A Webpack plugin for wiring up `<link rel='preload'>` (and prefetch) - supports async chunks #📦
++ [image-trace-loader](https://github.com/EmilTholin/image-trace-loader) Loads images and exports traced outlines as image/svg+xml URL-encoded data #📦
++ [purifycss-webpack](https://github.com/webpack-contrib/purifycss-webpack) Remove unused CSS #📦
++ [postcss-extend-rule](https://github.com/jonathantneal/postcss-extend-rule) Use the @extend at-rule and functional selectors in CSS #📦
++ [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) A Webpack plugin to optimize / minimize CSS assets #📦
++ [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) UglifyJS plugin #build #📦
++ [webpack-notifier](https://github.com/Turbo87/webpack-notifier) webpack + node-notifier = build status system notifications #📦
++ [lqip-loader](https://github.com/zouhir/lqip-loader) Low Quality Image Placeholders (LQIP) for Webpack #build #📦
++ [webpack-pwa-manifest](https://github.com/arthurbergmz/webpack-pwa-manifest) Progressive Web App Manifest Generator for Webpack, with auto icon resizing and fingerprinting support #📦
++ [jarvis](https://github.com/zouhir/jarvis) A very intelligent browser based Webpack dashboard #📦
++ [workerize-loader](https://github.com/developit/workerize-loader) Automatically move a module into a Web Worker #📦 #worker
 + [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler
 
 ## polyfill
