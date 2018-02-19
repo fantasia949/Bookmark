@@ -44,8 +44,7 @@
 ## data
 + [jsoneditoronline](//jsoneditoronline.org) #json #editor
 + [jsonformatter](//jsonformatter.curiousconcept.com) #json
-+ [quicktype](//quicktype.io) build better apps faster by 
-generating types from data #json #schema
++ [quicktype](//quicktype.io) build better apps faster by generating types from data #json #schema
 + [cyberChef](//gchq.github.io/CyberChef) universal transforming tool
 + [json-prettifier](http://www.uize.com/examples/json-prettifier.html) #json
 + [transform](https://transform.now.sh) universal transforming tool
