@@ -36,6 +36,7 @@
 + [workbox](//github.com/GoogleChrome/workbox) JavaScript libraries for Offline Caching
 
 ## util
++ [oboe](https://github.com/jimhigson/oboe.js) A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes
 + [ws](//github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js #http
 + [push.js](//github.com/Nickersoft/push.js) The world's most versatile desktop notifications framework #📢
 + [date-fns](//github.com/date-fns/date-fns) Modern JavaScript date utility library (similar to momentjs) #⏱
